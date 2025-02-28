@@ -34,6 +34,6 @@
 
     ![](/img/ARG_3/1655894399_orange.jpeg)
 
-- Если остались вопросы по установке, посмотрите [видео от поддержки Rhino](https://www.food4rhino.com/s3fs-images/f4r/images/faq/installing_a_grasshopper_plugin.mp4).
+- Если остались вопросы по установке, посмотрите [видео от поддержки Rhino](https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin).
 
 5. После установки плагинов перезапустите Rhino и Grasshopper.
